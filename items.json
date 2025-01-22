@@ -1,0 +1,64 @@
+{
+    "itemData" : [
+    {
+      "id": 1,
+      "title": "Coffee Fudge Brownie Ice Cream (100ml)",
+      "description": "Creamy coffee ice cream with chocolate fudge swirls and fudgy brownie chunks for a rich, indulgent treat.",
+      "price": "₹109",
+      "rating": "⭐️4.5",
+      "reviewCount": 13,
+      "isBestseller": true,
+      "isBolt": true,
+      "veg": true,
+      "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/v1630765070/k/2021-09-coffee-brownies/2021-08-31_ATK-6166.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Amore Gelato's Coffee Fudge Brownie (Mocha Almond Fudge)",
+      "description": "Gooey almond brownie chunks blended into coffee gelato with a swirl of rich chocolate fudge.",
+      "price": "₹89",
+      "rating": "⭐️4.5",
+      "reviewCount": 20,
+      "isBestseller": false,
+      "isBolt": false,
+      "veg": false,
+      "imageUrl": "https://amoregelato.com/cdn/shop/products/AmoreGelato10840.jpg?v=1677586100&width=1100"
+    },
+    {
+      "id": 3,
+      "title": "Mocha Brownie Ice Cream Dessert",
+      "description": "A layered dessert featuring mocha-flavored ice cream combined with brownie pieces and a rich fudge swirl.",
+      "price": "₹89",
+      "rating": "⭐️4.5",
+      "reviewCount": 20,
+      "isBestseller": true,
+      "isBolt": false,
+      "veg": true,
+      "imageUrl": "https://www.glorioustreats.com/wp-content/uploads/2016/05/Mocha-Brownie-Ice-Cream-Des.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Chocolate Fudge Brownie Ice Cream",
+      "description": "Decadent chocolate ice cream loaded with chunks of fudge brownies and a luscious fudge ripple.",
+      "price": "₹89",
+      "rating": "⭐️4.5",
+      "reviewCount": 20,
+      "isBestseller": true,
+      "isBolt": false,
+      "veg": true,
+      "imageUrl": "https://www.glutenfreealchemist.com/wp-content/uploads/2021/07/3Y-chocolate-fudge-brownie-ice-cream.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Brownie Fudge Swirl Ice Cream",
+      "description": "Smooth ice cream with generous swirls of fudge and embedded brownie bits for a delightful texture.",
+      "price": "₹89",
+      "rating": "⭐️4.5",
+      "reviewCount": 20,
+      "isBestseller": true,
+      "isBolt": false,
+      "veg": true,
+      "imageUrl": "https://lifemadesimplebakes.com/wp-content/uploads/2015/07/Brownie-Fudge-Swirl-Ice-Cream-1.jpg"
+    }
+  ]
+}
